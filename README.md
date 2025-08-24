@@ -1,2 +1,2 @@
 # Fake
-Fake
+This is a demo repositary.
